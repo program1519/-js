@@ -40,7 +40,7 @@ function hi (){
 	   document.getElementById('c').innerHTML = "ความเสี่ยงปกติ"
 	 }
 	 else {
-		
+		document.getElementById('c').innerHTML = "ความเสี่ยงน้อยมากก"
 	 }
 	
 }
